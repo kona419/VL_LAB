@@ -1,1 +1,2 @@
 # VL_LAB
+중앙대학교 VISION & LEARNING LAB
