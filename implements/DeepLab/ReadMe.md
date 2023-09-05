@@ -1,4 +1,5 @@
 DeepLabV3_4.ver
+
 dataset : PascalVOC 2012
 
 |2 GPUs|Overall Acc|Mean Acc|Mean Prec|Mean IoU|
